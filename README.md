@@ -3,6 +3,6 @@ This is the repository for a student project in the statistical programming lang
 
 Members of this project:
 Katja Metzger,
-Lorenz Rumberger,
+Josef Lorenz Rumberger,
 Elias Baumann
 
